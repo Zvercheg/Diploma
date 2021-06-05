@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScottPlot", "ScottPlot\ScottPlot.csproj", "{2EB18F34-A0C1-4A51-9286-C42DA53668CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioMonitorFFT", "AudioMonitorFFT\AudioMonitorFFT.csproj", "{2954AF60-7C44-4376-8EEF-19FBC77B6386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB18F34-A0C1-4A51-9286-C42DA53668CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB18F34-A0C1-4A51-9286-C42DA53668CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB18F34-A0C1-4A51-9286-C42DA53668CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB18F34-A0C1-4A51-9286-C42DA53668CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2954AF60-7C44-4376-8EEF-19FBC77B6386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2954AF60-7C44-4376-8EEF-19FBC77B6386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2954AF60-7C44-4376-8EEF-19FBC77B6386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2954AF60-7C44-4376-8EEF-19FBC77B6386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9F72C6-240E-4153-B775-79C9A6B77BBB}
+	EndGlobalSection
+EndGlobal

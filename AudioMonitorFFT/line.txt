@@ -1,0 +1,485 @@
+Freq: 286,3636 Hz | Note: 
+Freq: 286,3636 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 312,766 Hz | Note: Eb4
+Freq: 312,766 Hz | Note: Eb4
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 82,73921 Hz | Note: E2
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 306,25 Hz | Note: 
+Freq: 306,25 Hz | Note: 
+Freq: 306,25 Hz | Note: 
+Freq: 306,25 Hz | Note: 
+Freq: 306,25 Hz | Note: 
+Freq: 306,25 Hz | Note: 
+Freq: 306,25 Hz | Note: 
+Freq: 294 Hz | Note: D4
+Freq: 294 Hz | Note: D4
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 182,2314 Hz | Note: 
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 245 Hz | Note: B3
+Freq: 245 Hz | Note: B3
+Freq: 245 Hz | Note: B3
+Freq: 245 Hz | Note: B3
+Freq: 245 Hz | Note: B3
+Freq: 245 Hz | Note: B3
+Freq: 247,7528 Hz | Note: B3
+Freq: 247,7528 Hz | Note: B3
+Freq: 247,7528 Hz | Note: B3
+Freq: 247,7528 Hz | Note: B3
+Freq: 247,7528 Hz | Note: B3
+Freq: 247,7528 Hz | Note: B3
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 297,973 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 317,2662 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 144,1176 Hz | Note: 
+Freq: 144,1176 Hz | Note: 
+Freq: 144,1176 Hz | Note: 
+Freq: 144,1176 Hz | Note: 
+Freq: 132,0359 Hz | Note: C3
+Freq: 132,0359 Hz | Note: C3
+Freq: 132,0359 Hz | Note: C3
+Freq: 132,0359 Hz | Note: C3
+Freq: 132,0359 Hz | Note: C3
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 331,5789 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 329,1045 Hz | Note: E4
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 264,0719 Hz | Note: 
+Freq: 264,0719 Hz | Note: 
+Freq: 264,0719 Hz | Note: 
+Freq: 264,0719 Hz | Note: 
+Freq: 264,0719 Hz | Note: 
+Freq: 264,0719 Hz | Note: 
+Freq: 264,0719 Hz | Note: 
+Freq: 119,5122 Hz | Note: 
+Freq: 119,5122 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 310,5634 Hz | Note: Eb4
+Freq: 272,2222 Hz | Note: 
+Freq: 272,2222 Hz | Note: 
+Freq: 138,2445 Hz | Note: C#3
+Freq: 138,2445 Hz | Note: C#3
+Freq: 315 Hz | Note: 
+Freq: 315 Hz | Note: 
+Freq: 315 Hz | Note: 
+Freq: 315 Hz | Note: 
+Freq: 315 Hz | Note: 
+Freq: 272,2222 Hz | Note: 
+Freq: 272,2222 Hz | Note: 
+Freq: 272,2222 Hz | Note: 
+Freq: 272,2222 Hz | Note: 
+Freq: 154,1958 Hz | Note: Eb3
+Freq: 154,1958 Hz | Note: Eb3
+Freq: 326,6667 Hz | Note: 
+Freq: 326,6667 Hz | Note: 
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 154,7368 Hz | Note: Eb3
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 114,2487 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 334,0909 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 235,8289 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 137,3832 Hz | Note: C#3
+Freq: 137,3832 Hz | Note: C#3
+Freq: 137,3832 Hz | Note: C#3
+Freq: 137,3832 Hz | Note: C#3
+Freq: 137,3832 Hz | Note: C#3
+Freq: 137,3832 Hz | Note: C#3
+Freq: 137,3832 Hz | Note: C#3
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 238,3784 Hz | Note: 
+Freq: 238,3784 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 123,5294 Hz | Note: B2
+Freq: 123,5294 Hz | Note: B2
+Freq: 315 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 324,2647 Hz | Note: 
+Freq: 312,766 Hz | Note: Eb4
+Freq: 312,766 Hz | Note: Eb4
+Freq: 312,766 Hz | Note: Eb4
+Freq: 312,766 Hz | Note: Eb4
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 319,5652 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 321,8978 Hz | Note: 
+Freq: 265,6627 Hz | Note: 
+Freq: 265,6627 Hz | Note: 
+Freq: 265,6627 Hz | Note: 
+Freq: 265,6627 Hz | Note: 
+Freq: 265,6627 Hz | Note: 
+Freq: 145,0658 Hz | Note: D3
+Freq: 145,0658 Hz | Note: D3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 165,1685 Hz | Note: E3
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 308,3916 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 
+Freq: 336,6412 Hz | Note: 

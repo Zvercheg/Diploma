@@ -1,0 +1,32 @@
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\bin\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\bin\Debug\ScottPlot.pdb
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\bin\Debug\NAudio.dll
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\bin\Debug\NAudio.xml
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlot.csprojAssemblyReference.cache
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlotDev2.ScottPlotUC.resources
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlot.csproj.GenerateResource.cache
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlot.csproj.CoreCompileInputs.cache
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlot.csproj.CopyComplete
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\src\ScottPlot\obj\Debug\ScottPlot.pdb
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\bin\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\bin\Debug\ScottPlot.pdb
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\bin\Debug\NAudio.dll
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\bin\Debug\NAudio.xml
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlot.csprojAssemblyReference.cache
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlotDev2.ScottPlotUC.resources
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlot.csproj.GenerateResource.cache
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlot.csproj.CoreCompileInputs.cache
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlot.csproj.CopyComplete
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\ScottPlot\obj\Debug\ScottPlot.pdb
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\bin\Debug\ScottPlot.dll
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\bin\Debug\ScottPlot.pdb
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\bin\Debug\NAudio.xml
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlot.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlotDev2.ScottPlotUC.resources
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlot.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlot.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlot.csproj.CopyComplete
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlot.dll
+C:\Users\Nikita\Desktop\Диплом\ScottPlot\obj\Debug\ScottPlot.pdb

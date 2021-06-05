@@ -1,0 +1,87 @@
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\AudioMonitor.exe.config
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\AudioMonitor.exe
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\AudioMonitor.pdb
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\NAudio.dll
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\ScottPlot.pdb
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\bin\Debug\NAudio.xml
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csprojAssemblyReference.cache
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitor.Form1.resources
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitor.Properties.Resources.resources
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.GenerateResource.cache
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CoreCompileInputs.cache
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CopyComplete
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitor.exe
+C:\Users\Yurik\Desktop\work\Nikita\ScottPlot-master\demos\AudioMonitor\AudioMonitorFFT\obj\Debug\AudioMonitor.pdb
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe.config
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.pdb
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.pdb
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\bin\Debug\NAudio.xml
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csprojAssemblyReference.cache
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Form1.resources
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Properties.Resources.resources
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.GenerateResource.cache
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CoreCompileInputs.cache
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CopyComplete
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.exe
+C:\Users\Yurik\Desktop\work\Nikita\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.pdb
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe.config
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.pdb
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.dll
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.pdb
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\bin\Debug\NAudio.xml
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csprojAssemblyReference.cache
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Form1.resources
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Properties.Resources.resources
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.GenerateResource.cache
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CoreCompileInputs.cache
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CopyComplete
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.exe
+C:\Users\Yurik\Desktop\work\Nikita\28.03 go\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.pdb
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe.config
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.pdb
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.dll
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.pdb
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\bin\Debug\NAudio.xml
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Form1.resources
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CopyComplete
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.exe
+C:\Users\Nikita\Desktop\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.pdb
+D:\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe.config
+D:\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe
+D:\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.pdb
+D:\Диплом\AudioMonitorFFT\bin\Debug\NAudio.dll
+D:\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.dll
+D:\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.pdb
+D:\Диплом\AudioMonitorFFT\bin\Debug\NAudio.xml
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csprojAssemblyReference.cache
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Form1.resources
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Properties.Resources.resources
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.GenerateResource.cache
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CoreCompileInputs.cache
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CopyComplete
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.exe
+D:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.pdb
+F:\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe.config
+F:\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.exe
+F:\Диплом\AudioMonitorFFT\bin\Debug\AudioMonitor.pdb
+F:\Диплом\AudioMonitorFFT\bin\Debug\NAudio.dll
+F:\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.dll
+F:\Диплом\AudioMonitorFFT\bin\Debug\ScottPlot.pdb
+F:\Диплом\AudioMonitorFFT\bin\Debug\NAudio.xml
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csprojAssemblyReference.cache
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Form1.resources
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.Properties.Resources.resources
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.GenerateResource.cache
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CoreCompileInputs.cache
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitorFFT.csproj.CopyComplete
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.exe
+F:\Диплом\AudioMonitorFFT\obj\Debug\AudioMonitor.pdb
